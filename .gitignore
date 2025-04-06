@@ -3,3 +3,5 @@ hello_world_cpp_x64/build/libc.so.6
 hello_world_cpp_x64/build/libstdc++.so.6
 hello_world_c_x64/build/hello_world
 hello_world_c_x64/build/libc.so.6
+hello_world_c_arm64/build/hello_world
+hello_world_c_arm64/build/libc.so.6
